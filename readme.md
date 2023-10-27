@@ -22,5 +22,7 @@ To run the code
     
 ## Usage/Examples
 
-For usage you could use Postman desktop app to send POST/GET requests to the localhost
+Demo MongoDB database is already in the project.
+
+For usage you could use Postman desktop app to send POST/GET requests to the localhost.
 
